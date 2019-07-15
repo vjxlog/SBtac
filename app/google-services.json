@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29139441778",
+    "firebase_url": "https://sbtac-1cb81.firebaseio.com",
+    "project_id": "sbtac-1cb81",
+    "storage_bucket": "sbtac-1cb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29139441778:android:e2fcae7de7372856",
+        "android_client_info": {
+          "package_name": "com.example.gourav.sbtac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29139441778-1dumde0e026m2c03nhjde6dvkacc4p4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPph5Ie2LpYcrjoA_jSHF5Ux2gfYgazE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
